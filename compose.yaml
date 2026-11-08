@@ -1,0 +1,7 @@
+services:
+  music-api:
+    image: kat-music-api:1.0
+    container_name: kat-music-api
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
