@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KatMusicLibraryAPI.Tests/KatMusicLibraryAPI.Tests.csproj" />
+  <Project Path="KatMusicLibraryAPI/KatMusicLibraryAPI.csproj" />
+</Solution>
